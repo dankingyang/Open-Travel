@@ -1,12 +1,18 @@
-<div align="center">
-
 ![Open Travel 像素风横幅](./assets/open-travel-pixel.svg)
+
+<div align="center">
 
 # Open Travel
 
+</div>
+
 **面向 Codex 的开源旅行规划插件：聚合实时来源，统一证据，比较完整成本。**
 
+<div align="center">
+
 [![Codex Plugin](https://img.shields.io/badge/Codex-Plugin-111827?style=for-the-badge&logo=openai&logoColor=white)](https://developers.openai.com/plugins/)[![MCP](https://img.shields.io/badge/Protocol-MCP-7c3aed?style=for-the-badge)](https://modelcontextprotocol.io/)[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Node.js](https://img.shields.io/badge/Node.js-npx-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)[![JSON](https://img.shields.io/badge/Data-JSON-292929?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)[![Tests](https://img.shields.io/badge/tests-passing-2ea44f?style=for-the-badge)](#本地验证)[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](./LICENSE)
+
+</div>
 
 
 
@@ -292,4 +298,3 @@ codex plugin list --json
 ## 许可证
 
 本项目使用 [MIT License](./LICENSE)。
-
