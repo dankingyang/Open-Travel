@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan with Open Travel"
+  short_description: "Compare sourced travel options with complete costs"
+  default_prompt: "Use $plan-open-travel to give me standardized A-E trip options with complete costs, risks, and sources."

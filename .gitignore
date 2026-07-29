@@ -1,0 +1,8 @@
+mcp/node_modules/
+.pnpm-store/
+.runtime/
+archive/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo

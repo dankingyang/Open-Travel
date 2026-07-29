@@ -1,0 +1,139 @@
+{
+  "request": {
+    "currency": "CNY",
+    "hard_constraints": {
+      "disallow_self_transfer": true
+    }
+  },
+  "plans": [
+    {
+      "id": "headline-cheap",
+      "title": "低票面廉航 + 远机场",
+      "currency": "CNY",
+      "costs": {
+        "transport_fare": 1200,
+        "taxes": 280,
+        "baggage": 650,
+        "seat": 80,
+        "origin_access": 180,
+        "destination_egress": 420,
+        "stay": 1600,
+        "stay_taxes": 120,
+        "cleaning": 0,
+        "city_tax": 50,
+        "late_transport": 300,
+        "extra_nights": 0,
+        "other": 0
+      },
+      "required_cost_fields": [
+        "transport_fare",
+        "taxes",
+        "baggage",
+        "origin_access",
+        "destination_egress",
+        "stay"
+      ],
+      "duration_minutes": 690,
+      "transfers": 1,
+      "walking_meters": 1600,
+      "comfort_score": 45,
+      "connection": {
+        "departure_local_time": "05:10",
+        "arrival_local_time": "23:45",
+        "public_transport_last_time": "23:10",
+        "lodging_checkin_end": "23:00"
+      },
+      "evidence": [
+        {
+          "provider": "fixture-flight",
+          "completeness": "complete",
+          "price_status": "live"
+        }
+      ]
+    },
+    {
+      "id": "balanced",
+      "title": "市区机场直飞 + 经济酒店",
+      "currency": "CNY",
+      "costs": {
+        "transport_fare": 2100,
+        "taxes": 300,
+        "baggage": 0,
+        "seat": 0,
+        "origin_access": 40,
+        "destination_egress": 90,
+        "stay": 1500,
+        "stay_taxes": 120,
+        "cleaning": 0,
+        "city_tax": 50,
+        "late_transport": 0,
+        "extra_nights": 0,
+        "other": 0
+      },
+      "duration_minutes": 420,
+      "transfers": 0,
+      "walking_meters": 800,
+      "comfort_score": 76,
+      "connection": {
+        "departure_local_time": "09:30",
+        "arrival_local_time": "14:20",
+        "public_transport_last_time": "23:10",
+        "lodging_checkin_end": "23:00"
+      },
+      "evidence": [
+        {
+          "provider": "fixture-flight-a",
+          "completeness": "complete",
+          "price_status": "live"
+        },
+        {
+          "provider": "fixture-stay-a",
+          "completeness": "complete",
+          "price_status": "live"
+        }
+      ]
+    },
+    {
+      "id": "comfort",
+      "title": "核心时段全服务航司 + 高评分酒店",
+      "currency": "CNY",
+      "costs": {
+        "transport_fare": 2800,
+        "taxes": 320,
+        "baggage": 0,
+        "seat": 0,
+        "origin_access": 60,
+        "destination_egress": 100,
+        "stay": 2100,
+        "stay_taxes": 160,
+        "cleaning": 0,
+        "city_tax": 60,
+        "late_transport": 0,
+        "extra_nights": 0,
+        "other": 0
+      },
+      "duration_minutes": 390,
+      "transfers": 0,
+      "walking_meters": 500,
+      "comfort_score": 91,
+      "connection": {
+        "departure_local_time": "10:00",
+        "arrival_local_time": "14:40",
+        "public_transport_last_time": "23:10",
+        "lodging_checkin_end": "23:00"
+      },
+      "evidence": [
+        {
+          "provider": "fixture-flight-b",
+          "completeness": "complete",
+          "price_status": "live"
+        },
+        {
+          "provider": "fixture-stay-b",
+          "completeness": "complete",
+          "price_status": "live"
+        }
+      ]
+    }
+  ]
+}

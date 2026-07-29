@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "travel_12306": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "12306-mcp@0.3.9"
+      ]
+    },
+    "travel_kiwi": {
+      "type": "http",
+      "url": "https://mcp.kiwi.com"
+    },
+    "travel_hotels": {
+      "type": "http",
+      "url": "https://mcp.trivago.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "open-travel",
+  "version": "1.0.0+codex.20260729140138",
+  "description": "Portable travel planning with standardized options, complete costs, and connection-risk evaluation.",
+  "author": {
+    "name": "Open Travel contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "flights",
+    "rail",
+    "itinerary",
+    "budget"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Open Travel",
+    "shortDescription": "Compare standardized trip options and complete costs",
+    "longDescription": "Route flight, rail, stay, activity and trail searches through installed travel plugins, then present distinct A\u2013E options with complete door-to-door costs, evidence gaps and connection risks.",
+    "developerName": "Open Travel contributors",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Plan an affordable trip with standardized A\u2013E options",
+      "Compare fixed and flexible dates as distinct choices",
+      "Audit my itinerary's complete cost and connection risks"
+    ]
+  }
+}

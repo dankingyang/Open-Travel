@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Open Travel 像素风横幅</title>
+  <desc id="desc">夜空下，飞机、火车和轮船沿着像素路线连接世界，中央显示 Open Travel。</desc>
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <rect x="12" y="12" width="1176" height="296" fill="none" stroke="#30363d" stroke-width="8"/>
+
+  <g shape-rendering="crispEdges">
+    <rect x="56" y="44" width="8" height="8" fill="#f0f6fc"/>
+    <rect x="112" y="72" width="6" height="6" fill="#58a6ff"/>
+    <rect x="196" y="38" width="8" height="8" fill="#f0f6fc"/>
+    <rect x="1028" y="52" width="8" height="8" fill="#f0f6fc"/>
+    <rect x="1090" y="88" width="6" height="6" fill="#58a6ff"/>
+    <rect x="1138" y="42" width="8" height="8" fill="#f0f6fc"/>
+
+    <rect x="70" y="160" width="10" height="10" fill="#3fb950"/>
+    <rect x="90" y="160" width="40" height="10" fill="#3fb950"/>
+    <rect x="110" y="150" width="10" height="10" fill="#3fb950"/>
+    <rect x="120" y="140" width="10" height="10" fill="#3fb950"/>
+    <rect x="130" y="130" width="60" height="10" fill="#3fb950"/>
+    <rect x="150" y="110" width="20" height="20" fill="#3fb950"/>
+    <rect x="190" y="120" width="10" height="20" fill="#3fb950"/>
+    <rect x="80" y="170" width="120" height="10" fill="#3fb950"/>
+    <rect x="105" y="180" width="70" height="10" fill="#3fb950"/>
+    <rect x="120" y="190" width="40" height="10" fill="#3fb950"/>
+
+    <rect x="1010" y="132" width="120" height="12" fill="#58a6ff"/>
+    <rect x="1034" y="112" width="72" height="20" fill="#58a6ff"/>
+    <rect x="1052" y="92" width="10" height="20" fill="#58a6ff"/>
+    <rect x="1064" y="102" width="26" height="10" fill="#58a6ff"/>
+    <rect x="1022" y="144" width="96" height="10" fill="#58a6ff"/>
+    <rect x="1038" y="154" width="64" height="10" fill="#58a6ff"/>
+
+    <rect x="66" y="242" width="164" height="10" fill="#f0883e"/>
+    <rect x="82" y="204" width="132" height="38" fill="#f0883e"/>
+    <rect x="96" y="190" width="104" height="14" fill="#f0883e"/>
+    <rect x="102" y="212" width="20" height="16" fill="#0d1117"/>
+    <rect x="132" y="212" width="20" height="16" fill="#0d1117"/>
+    <rect x="162" y="212" width="20" height="16" fill="#0d1117"/>
+    <rect x="92" y="252" width="22" height="22" fill="#8b949e"/>
+    <rect x="182" y="252" width="22" height="22" fill="#8b949e"/>
+
+    <rect x="966" y="222" width="170" height="10" fill="#a371f7"/>
+    <rect x="990" y="198" width="120" height="24" fill="#a371f7"/>
+    <rect x="1024" y="178" width="52" height="20" fill="#a371f7"/>
+    <rect x="1040" y="158" width="8" height="20" fill="#a371f7"/>
+    <rect x="1004" y="232" width="94" height="10" fill="#a371f7"/>
+    <rect x="1020" y="242" width="62" height="10" fill="#a371f7"/>
+
+    <path d="M230 246 H294 V264 H358 V246 H422 V264 H486" fill="none" stroke="#8b949e" stroke-width="6" stroke-dasharray="12 10"/>
+    <path d="M714 264 H778 V246 H842 V264 H906 V246 H966" fill="none" stroke="#8b949e" stroke-width="6" stroke-dasharray="12 10"/>
+  </g>
+
+  <text x="600" y="140" text-anchor="middle" fill="#f0f6fc" font-size="76" font-family="Consolas, 'Courier New', monospace" font-weight="700" letter-spacing="8">OPEN TRAVEL</text>
+  <text x="600" y="188" text-anchor="middle" fill="#8b949e" font-size="22" font-family="Consolas, 'Courier New', monospace" letter-spacing="3">SEARCH · NORMALIZE · COMPARE</text>
+  <rect x="342" y="214" width="516" height="6" fill="#21262d"/>
+  <rect x="422" y="214" width="76" height="6" fill="#3fb950"/>
+  <rect x="562" y="214" width="76" height="6" fill="#58a6ff"/>
+  <rect x="702" y="214" width="76" height="6" fill="#a371f7"/>
+</svg>
